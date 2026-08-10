@@ -1,0 +1,1 @@
+This project is developed by Nicktender. Please do not present the original Map SDK or its source code as entirely your own work. If you want to develop custom maps for your game, I am not offering tutorials for that, but you can learn from my code. However, my code is highly specific to my game, Rusty Robots: The Harvest, so you should build your own unique system. 
