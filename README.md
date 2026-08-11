@@ -55,6 +55,10 @@ A file browser will open asking you where you'd like to save it.
 
 The resulting ZIP can then be uploaded to **Mod.io**.
 
+## KNOWN ISSUES!!
+* Captain Clark does not work
+* Transparent materials do not properly apply the "Blending Mode" property, so only Alpha is supported
+
 ## Need More Help?
 
 Please feel free to go to the [Mod.io page](https://mod.io/g/rr-the-harvest) and make a better guide lol.
