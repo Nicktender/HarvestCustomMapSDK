@@ -20,8 +20,8 @@ Everything you need is located in:
 
 Under `CustomMapsData`, you'll find the `Scenes` folder.
 
-* **EmptyScene.unity** — A blank but already set-up scene. Think of it as a blank canvas ready for you to build off of.
-* **TutorialScene1.unity** — The project should open to this scene by default. It contains examples and explanations to help you get started.
+* **EmptyScene.unity**:  A blank but already set-up scene. Think of it as a blank canvas ready for you to build off of.
+* **TutorialScene1.unity**:  The project should open to this scene by default. It contains examples and explanations to help you get started.
 
 ## Setting Up Your Map
 
@@ -45,9 +45,9 @@ By default, it is set to **Use Current Lighting**, which is most likely what you
 
 You can also:
 
-* **Use Current Lighting** — Use the lighting already set up in your scene.
-* **Bake Lighting Before Export** — Rebake the lighting using Unity's default lightmapper.
-* **Remove All Lighting** — Remove all lighting from the exported map.
+* **Use Current Lighting**:  Use the lighting already set up in your scene.
+* **Bake Lighting Before Export**:  Rebake the lighting using Unity's default lightmapper.
+* **Remove All Lighting**:  Remove all lighting from the exported map.
 
 Once you export, the map will be saved as a ZIP using the name you previously set.
 
@@ -58,3 +58,4 @@ The resulting ZIP can then be uploaded to **Mod.io**.
 ## Need More Help?
 
 Please feel free to go to the [Mod.io page](https://mod.io/g/rr-the-harvest) and make a better guide lol.
+
