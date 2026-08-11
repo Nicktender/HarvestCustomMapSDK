@@ -29,7 +29,7 @@ Set the name for your map by selecting the **MapRoot** object and filling out th
 
 These parameters currently have no purpose other than determining the name of the exported ZIP file.
 
-The only thing on the `MapRoot` object that actually matters is the **MapBox** reference. This is where the map loading room is located. It's basically the map's **"V-Stump"** from Harvest.
+The only thing on the `MapRoot` object that actually matters is the **MapBox** reference. This is where the map loading room is located. It's basically the map's **"V-Stump"** in Harvest.
 
 ## Exporting Your Map
 
