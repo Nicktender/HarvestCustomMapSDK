@@ -55,6 +55,14 @@ A file browser will open asking you where you'd like to save it.
 
 The resulting ZIP can then be uploaded to **Mod.io**.
 
+## NOTES FOR DEVELOPERS!
+To disable jetpacks, give any object the tag "AntiJetpack"
+To have teleporters and other triggers work, you must set the layer to "Ignore Raycast" and the collider must be set to be a Trigger.
+If a teleporter has no exits, it acts as a respawn.
+
+## Unity Tutorials
+Lightmapping: https://www.youtube.com/watch?v=XjRNWH8Eazo
+
 ## KNOWN ISSUES!!
 * Captain Clark does not work
 * Transparent materials do not properly apply the "Blending Mode" property, so only Alpha is supported
