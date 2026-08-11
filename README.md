@@ -56,6 +56,7 @@ A file browser will open asking you where you'd like to save it.
 The resulting ZIP can then be uploaded to **Mod.io**.
 
 ## NOTES FOR DEVELOPERS!
+The scale of Harvest compared to Gorilla Tag is 1.5x. If a level is designed around Gorilla Tag's scale, everything must be scaled up by 1.5x.
 To disable jetpacks, give any object the tag "AntiJetpack"
 To have teleporters and other triggers work, you must set the layer to "Ignore Raycast" and the collider must be set to be a Trigger.
 If a teleporter has no exits, it acts as a respawn.
