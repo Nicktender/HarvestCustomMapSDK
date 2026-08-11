@@ -62,4 +62,4 @@ The resulting ZIP can then be uploaded to **Mod.io**.
 ## Need More Help?
 
 Please feel free to go to the [Mod.io page](https://mod.io/g/rr-the-harvest) and make a better guide lol.
-Discord Server: [LINJ](https://discord.gg/XeNuh4SbeJ)
+Discord Server: [LINK](https://discord.gg/XeNuh4SbeJ)
