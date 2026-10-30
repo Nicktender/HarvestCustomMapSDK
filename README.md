@@ -2,7 +2,7 @@
 
 Welcome! This guide walks through installing the SDK, building a map with the included tools, exporting it, and publishing it for Harvest players. It follows the actual information from the SDK 2.0 project.
 
-**Known problems:** Quest3_URD.asset incorrectly has post-processing disabled. This will be addressed in 2.0.1.
+**Known problems:** Quest3_URD.asset incorrectly has post-processing disabled. This means custom post-processing effects will not show in the editor but will show in-game. This will be addressed in 2.0.1.
 ## SDK 2.0 release highlights
 
 SDK 2.0 provides a Unity project template, examples, and an exporter for creating Harvest custom maps. Supported features include:
